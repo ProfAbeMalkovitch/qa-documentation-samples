@@ -1,4 +1,4 @@
-# QA Documentation Samples — Test Plans & Defect Reports
+# QA Documentation Samples- Test Plans & Defect Reports
 
 A portfolio repo showing how I write test plans and log defects- the documentation
 side of QA that doesn't show up in an automation framework repo.
@@ -7,7 +7,7 @@ side of QA that doesn't show up in an automation framework repo.
 - Design test cases with clear preconditions, steps, and expected results
 - Turn a found bug into a defect report someone else could reproduce without asking a single follow-up question
 - Distinguish severity (how badly it breaks things) from priority (how urgently to fix
-  it) — and justify each independently, rather than assuming they always match
+  it)- and justify each independently, rather than assuming they always match
 
 ## What's inside
 
@@ -27,7 +27,7 @@ qa-documentation-samples/
 
 ## The sample defects are real, reproducible bugs
 
-All three sample defects were found on [SauceDemo](https://www.saucedemo.com/) — a
+All three sample defects were found on [SauceDemo](https://www.saucedemo.com/)- a
 public site maintained specifically for testing practice, which intentionally seeds
 bugs tied to its `problem_user` test account. They're genuinely reproducible today by
 anyone (see the steps in each report), not fabricated examples.
